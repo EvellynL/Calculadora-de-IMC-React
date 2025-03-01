@@ -39,4 +39,5 @@ export const data = [
       obesity: "III",
       infoClass: "high",
     },
+
   ];
